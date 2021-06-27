@@ -33,7 +33,7 @@ This is a cross platform application with a React frontend and Node backend with
 
 ![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/song2.png)
 
-![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/son3.png)
+![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/song3.png)
 
 ![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/arijit.png)
 
