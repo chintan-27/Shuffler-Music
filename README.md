@@ -21,6 +21,7 @@ This is a cross platform application with a React frontend and Node backend with
 
 > python -m flask run
 
+## This is our web-UI using React.js
 
 ![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/home.png)
 
@@ -39,3 +40,11 @@ This is a cross platform application with a React frontend and Node backend with
 ![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/loader.png)
 
 ![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/Screenshot%20(33).png)
+
+## This is our App-UI using Reacr Native
+![](https://github.com/chintan-27/Shuffler-Music/blob/main/one.jpeg)
+![](https://github.com/chintan-27/Shuffler-Music/blob/main/two.jpeg)
+
+# For the demo of our Shuffler-Music please visit
+YouTube Link - https://youtu.be/HQRxTD6-gXU
+
