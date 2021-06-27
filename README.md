@@ -41,7 +41,7 @@ This is a cross platform application with a React frontend and Node backend with
 
 ![Image ](https://github.com/chintan-27/Shuffler-Music/blob/main/Client/public/Screenshots/Screenshot%20(33).png)
 
-## This is our App-UI using Reacr Native
+## This is our App-UI using React Native
 
 <img src="https://github.com/chintan-27/Shuffler-Music/blob/main/two.jpeg" width="200" height="400" />  <img src="https://github.com/chintan-27/Shuffler-Music/blob/main/one.jpeg" width="200" height="400" />
 
